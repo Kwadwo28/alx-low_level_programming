@@ -5,3 +5,5 @@
 4-puts.c prints exactly "Programming is like building a multilingual puzzle, followed by a new line
 5-printf.c that prints exactly 'with proper grammar, but the outcome is a piece of art'
 6-size.c prints the sizes of various types on the computer it is complied and run on
+100-intel generates the assembly code (Syntax) of a C-code and saves it in an output file
+101-quote.c prints exactly 'and that piece of art is useful' - Dora Korpar, 2015-10-19 followed by a new line to standard error
